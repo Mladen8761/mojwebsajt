@@ -1,0 +1,13 @@
+#naslov{
+    background-color: darkgray;
+    width: 290px;
+font-family: "press start 2p" , sans-serif;
+
+}
+body{
+    font-family:"consolas", sans-serif;
+}
+.podvuci{
+    text-decoration:underline;
+    font-style: italic;
+}
